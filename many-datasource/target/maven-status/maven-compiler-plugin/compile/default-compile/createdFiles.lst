@@ -1,0 +1,10 @@
+com\scj\beilu\manydatasource\ManyDatasourceApplication.class
+com\scj\beilu\manydatasource\commons\DynamicDataSource.class
+com\scj\beilu\manydatasource\model\Student.class
+com\scj\beilu\manydatasource\commons\DynamicDataSourceAspect.class
+com\scj\beilu\manydatasource\service\ManyService.class
+com\scj\beilu\manydatasource\commons\DynamicDataSourceRegister.class
+com\scj\beilu\manydatasource\commons\TargetDataSource.class
+com\scj\beilu\manydatasource\controller\ManyController.class
+com\scj\beilu\manydatasource\mapper\ManyMapper.class
+com\scj\beilu\manydatasource\commons\DynamicDataSourceContextHolder.class
