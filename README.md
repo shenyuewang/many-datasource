@@ -389,5 +389,4 @@ public class ManyService {
 @EnableAutoConfiguration(exclude = {DataSourceAutoConfiguration.class})
 ```
 第一个是导入我们配置的多数据源，第二个是去掉springboot默认的数据源。到此读写分离完成。
-github源码地址：
-谢谢各位同学去star 和fork一下，有时间也会写一些springcloud的笔记，都是些自己的理解，还有平时踩的坑。
+谢谢各位同学去tar 和fork一下，有时间也会写一些springcloud的笔记，都是些自己的理解，还有平时踩的坑。
